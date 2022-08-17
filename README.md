@@ -1,7 +1,5 @@
 # pandas-challenge
 
-![Money-Crayons.jpg](attachment:Money-Crayons.jpg)
-
 ## Py School Conclusions
 
 Money Spent Versus Overall Passing Rate
