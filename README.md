@@ -2,7 +2,7 @@
 
 ## Py School Conclusions
 
-Money Spent Versus Overall Passing Rate
+Money per Student Spent versus Overall Passing Rate
 While the logical conclusion might be that the more funds spent for the education of a student would result in a higher passing percentage rate.  However, the scores for Spending per student analysis proves this to be a false conclusion.  This analysis shows that money is not necessarily an indication of the overall passing rate percentage.  The highest overall passing percentage rate occured with the schools who spent the lessor amounts of money per student with an average spend amount of less tha $621 (Cell 41) per student versus the other schools spending greater $619 per student.
 
 Charter versus Public Distric Schools Overall Passing Rate
